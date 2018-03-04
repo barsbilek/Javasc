@@ -17,20 +17,20 @@
 	border-top: 5px dotted #2ecc71;
 	border-right: 5px dotted #2ecc71;
 	border-bottom: 5px dotted #2ecc71;
-background-color: #e74c3c;
-width: 200px;
-height: 120px;
-float: left;
+	background-color: #e74c3c;
+	width: 200px;
+	height: 120px;
+	float: left;
 }
 #headeror2{
 	text-align: center;
 	border-top: 5px dotted #2ecc71;
 	border-right: 5px dotted #2ecc71;
 	border-bottom: 5px dotted #2ecc71;
-background-color:#e74c3c;
-width: 195px;
-height: 190px;
-float: left;
+	background-color:#e74c3c;
+	width: 195px;
+	height: 190px;
+	float: left;
 }
 #headeror2 h1{
 	font-family: 'Comic Sans MS', sans-serif;
@@ -40,10 +40,10 @@ float: left;
 	border-top: 5px dotted #2ecc71;
 	border-right:5px dotted #2ecc71; 
 	border-bottom: 5px dotted #2ecc71;
-background-color:#e74c3c;
-width: 195px;
-height: 190px;
-float: left;
+	background-color:#e74c3c;
+	width: 195px;
+	height: 190px;
+	float: left;
 }
 #headeror3 h1{
 	font-family: 'Comic Sans MS', sans-serif;
@@ -52,11 +52,11 @@ float: left;
 	text-align: center;
 	border-right:5px dotted #2ecc71; 
 	border-top: 5px dotted #2ecc71;
-border-bottom: 5px dotted #2ecc71;
-background-color:#e74c3c;
-width: 195px;
-height: 190px;
-float: left;
+	border-bottom: 5px dotted #2ecc71;
+	background-color:#e74c3c;
+	width: 195px;
+	height: 190px;
+	float: left;
 }
 #headeror4 h1{
 	font-family: 'Comic Sans MS', sans-serif;
@@ -64,11 +64,11 @@ float: left;
 #headeror5{
 	border-right:5px dotted #2ecc71; 
 	border-top: 5px dotted #2ecc71;
-border-bottom: 5px dotted #2ecc71;
-background-color:#e74c3c;
-width: 195px;
-height: 190px;
-float: left;
+	border-bottom: 5px dotted #2ecc71;
+	background-color:#e74c3c;
+	width: 195px;
+	height: 190px;
+	float: left;
 }
 #headeror5 h1{
 	font-family: 'Comic Sans MS', sans-serif;
@@ -81,6 +81,9 @@ float: left;
 	width: 195px;
 	height: 190px;
 	float: left;
+}
+#headeror6 h1{
+	font-family: 'Comic Sans MS', sans-serif;
 }
 #header4{
 	width: 100%;
