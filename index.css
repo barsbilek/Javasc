@@ -13,71 +13,71 @@
 	padding-top: 70px; 
 	text-align: center; 
 	font-size: 18px;
-	font-family: 'Mina', sans-serif;
-	border-top: 5px solid white;
-	border-right: 5px solid white;
-	border-bottom: 5px solid white;
-background-color: #e3df23;
+	font-family: 'Comic Sans MS', sans-serif;
+	border-top: 5px dotted #2ecc71;
+	border-right: 5px dotted #2ecc71;
+	border-bottom: 5px dotted #2ecc71;
+background-color: #e74c3c;
 width: 200px;
 height: 120px;
 float: left;
 }
 #headeror2{
 	text-align: center;
-	border-top: 5px solid white;
-	border-right: 5px solid white;
-	border-bottom: 5px solid white;
-background-color: #e3df23;
+	border-top: 5px dotted #2ecc71;
+	border-right: 5px dotted #2ecc71;
+	border-bottom: 5px dotted #2ecc71;
+background-color:#e74c3c;
 width: 195px;
 height: 190px;
 float: left;
 }
 #headeror2 h1{
-	font-family: 'Mina', sans-serif;
+	font-family: 'Comic Sans MS', sans-serif;
 }
 #headeror3{
 	text-align: center;
-	border-top: 5px solid white;
-	border-right:5px solid white; 
-	border-bottom: 5px solid white;
-background-color: #e3df23;
+	border-top: 5px dotted #2ecc71;
+	border-right:5px dotted #2ecc71; 
+	border-bottom: 5px dotted #2ecc71;
+background-color:#e74c3c;
 width: 195px;
 height: 190px;
 float: left;
 }
 #headeror3 h1{
-	font-family: 'Mina', sans-serif;
+	font-family: 'Comic Sans MS', sans-serif;
 }
 #headeror4{
 	text-align: center;
-	border-right:5px solid white; 
-	border-top: 5px solid white;
-border-bottom: 5px solid white;
-background-color: #e3df23;
+	border-right:5px dotted #2ecc71; 
+	border-top: 5px dotted #2ecc71;
+border-bottom: 5px dotted #2ecc71;
+background-color:#e74c3c;
 width: 195px;
 height: 190px;
 float: left;
 }
 #headeror4 h1{
-	font-family: 'Mina', sans-serif;
+	font-family: 'Comic Sans MS', sans-serif;
 }
 #headeror5{
-	border-right:5px solid white; 
-	border-top: 5px solid white;
-border-bottom: 5px solid white;
-background-color:#e3df23;
+	border-right:5px dotted #2ecc71; 
+	border-top: 5px dotted #2ecc71;
+border-bottom: 5px dotted #2ecc71;
+background-color:#e74c3c;
 width: 195px;
 height: 190px;
 float: left;
 }
 #headeror5 h1{
-	font-family: 'Mina', sans-serif;
+	font-family: 'Comic Sans MS', sans-serif;
 }
 #headeror6{
 	text-align: center;
-	border-top: 5px solid white;
-	border-bottom: 5px solid white;
-	background-color:#e3df23;
+	border-top: 5px dotted #2ecc71;
+	border-bottom: 5px dotted #2ecc71;
+	background-color:#e74c3c;
 	width: 195px;
 	height: 190px;
 	float: left;
@@ -88,53 +88,53 @@ float: left;
 	float: left;
 }
 #headeror7{
-	font-family: 'Nosifer', cursive;
+	font-family: 'Comic Sans MS', cursive;
 	padding-top: 70px; 
 	text-align: center;
-	border-right:5px solid white; 
-	border-top: 5px solid white;
-	border-bottom: 5px solid white;
-	background-color: green;
+	border-right:5px dotted #2ecc71; 
+	border-top: 5px dotted #2ecc71;
+	border-bottom: 5px dotted #2ecc71;
+	background-color: #9b59b6;
 	width: 200px;
 	height: 120px;
 	float: left;
 }
 #headeror8{
 	text-align: center;
-	border-right:5px solid white; 
-	border-top: 5px solid white;
-	border-bottom: 5px solid white;
-	background-color: green;
+	border-right:5px dotted #2ecc71; 
+	border-top: 5px dotted #2ecc71;
+	border-bottom: 5px dotted #2ecc71;
+	background-color: #9b59b6;
 	width: 328px;
 	height: 190px;
 	float: left;
 }
 #headeror8 h1{
-	font-family: 'Nosifer', cursive;
+	font-family: 'Comic Sans MS', cursive;
 }
 #headeror9{
-	border-right:5px solid white; 
-	border-top: 5px solid white;
-	border-bottom: 5px solid white;
-	background-color: green;
+	border-right:5px dotted #2ecc71; 
+	border-top: 5px dotted #2ecc71;
+	border-bottom: 5px dotted #2ecc71;
+	background-color: #9b59b6;
 	width: 328px;
 	height: 190px;
 	float: left;
 }
 #headeror9 h1{
-	font-family: 'Nosifer', cursive;
+	font-family: 'Comic Sans MS', cursive;
 }
 #headeror10{
 	text-align: center;
-	border-top: 5px solid white;
-	border-bottom: 5px solid white;
-	background-color: green;
+	border-top: 5px dotted #2ecc71;
+	border-bottom: 5px dotted #2ecc71;
+	background-color: #9b59b6;
 	width: 329px;
 	height: 190px;
 	float: left;
 }
 #headeror10 h1{
-	font-family: 'Nosifer', cursive;
+	font-family: 'Comic Sans MS', cursive;
 }
 #article3{
 	padding-left: 50px;
@@ -142,8 +142,8 @@ float: left;
 	font-size: 50px;
 	color: white;
 	text-align: center;
-	font-family: 'Krona One', sans-serif;
-	background-color: #000098;
+	font-family: 'Comic Sans MS', sans-serif;
+	background-color: #e67e22;
 	width: 1150px;
 	height: 80px;
 	float: left;
@@ -159,9 +159,9 @@ float: left;
 	float: left;
 }
 #headeror11{
-	border-right:5px solid white; 
-	border-top: 5px solid white;
-	border-bottom: 5px solid white;
+	border-right:5px dotted #2ecc71; 
+	border-top: 5px dotted #2ecc71;
+	border-bottom: 5px dotted #2ecc71;
 	width: 396px;
 	height: 190px;
 	float: left;
@@ -171,9 +171,9 @@ float: left;
 	height: 100%; 
 }
 #headeror12{
-	border-right:5px solid white; 
-	border-top: 5px solid white;
-	border-bottom: 5px solid white;
+	border-right:5px dotted #2ecc71; 
+	border-top: 5px dotted #2ecc71;
+	border-bottom: 5px dotted #2ecc71;
 	width: 396px;
 	height: 190px;
 	float: left;
@@ -183,8 +183,8 @@ float: left;
 	height: 100%; 
 }
 #headeror13{
-	border-top: 5px solid white;
-	border-bottom: 5px solid white;
+	border-top: 5px dotted #2ecc71;
+	border-bottom: 5px dotted #2ecc71;
 	width: 398px;
 	height: 190px;
 	float: left;
